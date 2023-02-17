@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Trivedi</h1>
 <h3 align="center">Machine Learning Researcher. Eat, Research,  Sleep, Repeat.</h3>
 
-- 🔭 I’m currently working on **Object Detection Models.**
+- 🔭 I’m currently working on **applying machine learning in the financial industry.**
 
-- 🌱 I’m currently learning **Advanced Natural Language Processing and Computer Vision with 3-D images.**
+- 🌱 I’m currently learning **Advanced Natural Language Processing and Computer Vision.**
 
-- 👯 I’m looking to collaborate on **Computer Vision Projects**
+- 👯 I’m looking to collaborate on **any Machine/Deep Learning projects**
 
 - 💬 Ask me about **Data Science/ Machine Learning/ Deep Learning**
 
