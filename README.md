@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Trivedi</h1>
 <h3 align="center">Machine Learning Researcher. Eat, Research,  Sleep, Repeat.</h3>
 
-- 🔭 I’m currently working on **applying machine learning in the financial industry.**
+- 🔭 I’m currently working on **applying machine learning and deep learning in different industries.**
 
 - 🌱 I’m currently learning **Advanced Natural Language Processing and Computer Vision.**
 
